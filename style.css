@@ -375,7 +375,7 @@ justify-content: space-between;
 .picture3-1 {
     width: 100%;
     height: 434px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)), url(/image/image\ 6.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)), url('image/image\ 6.png');
     display: flex;
     justify-content: center;
     align-items: center;
@@ -578,7 +578,7 @@ justify-content: space-between;
 }
 
 .picture5-1 {
-    background-image:linear-gradient(rgba(244, 238, 238, 0.7), rgba(236, 231, 231, 0.7)), url(/image/home.png);
+    background-image:linear-gradient(rgba(244, 238, 238, 0.7), rgba(236, 231, 231, 0.7)), url('image/home.png');
     background-repeat: no-repeat;
     grid-row: 1/1;
     grid-column: 1/1;
@@ -848,7 +848,7 @@ justify-content: space-between;
    background-color: #181818E5;
    display: flex;
    flex-direction: column;
-   background-image:linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%), url(/image/image\ 7.2.png);
+   background-image:linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%), url('image/image\ 7.2.png');
    
 }
 
@@ -944,7 +944,7 @@ justify-content: space-between;
 .map {
     width: 100%;
     height: 465px;
-    background-image: url(/image/map.png);
+    background-image: url('image/map.png');
 }
 
 
@@ -1036,7 +1036,7 @@ footer {
 .picture2-1 {
     grid-row: 3/3;
     grid-column: 1/1;
-    background-image: url(/image/image\ 2.1.jpg);
+    background-image: url('image/image\ 2.1.jpg');
 }
 
 .colectionOfCNT2-1 {
@@ -1150,7 +1150,7 @@ align-self: center;
 
     .picture5-1 {
 
-        background-image:linear-gradient(rgba(244, 238, 238, 0.7), rgba(236, 231, 231, 0.7)), url(/image/home.png);
+        background-image:linear-gradient(rgba(244, 238, 238, 0.7), rgba(236, 231, 231, 0.7)), url('image/home.png');
         background-repeat: no-repeat;
         grid-row: 1/1;
         grid-column: 1/1;
@@ -1286,7 +1286,7 @@ align-self: center;
 
 
     .picture2-2 {
-        background-image: url(/image/image\ 2.png);
+        background-image: url('image/image\ 2.png');
         display: flex;
         align-items: center;
     }
@@ -1383,7 +1383,7 @@ align-self: center;
     .map {
        width: 90%;
        align-self: center;
-       background-image: url(/image/map-mini.png);
+       background-image: url('image/map-mini.png');
     }
 
     
