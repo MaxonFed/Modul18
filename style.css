@@ -1175,7 +1175,6 @@ align-self: center;
     .stuff5-1 {
         grid-column: 1/1;
         grid-row: 3/3;
-        border: 1px solid black;
         display: flex;
         flex-direction: row;
         align-items: center;
